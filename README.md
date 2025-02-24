@@ -64,8 +64,8 @@ Displays a helpful empty state when no data exists
 
 1 Clone the repository
 
-git clone https://github.com/yourusername/location-tracker-app.git
-cd location-tracker-app
+git clone [https://github.com/yourusername/location-tracker-app.git](https://github.com/dinesh-dot-com/location_tracker.git)
+cd location_tracker
 
 2 Install dependencies
 
